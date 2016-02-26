@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalishistor01plingoog/naturalishistor01plingoog_0763.png"; bbox 0 0 2500 3904; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 671 9 1246 321">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 671 9 1246 321">
+     <span class='ocr_line' id='line_1_1' title="bbox 671 9 1246 321; baseline 0.003 -107"><span class='ocrx_word' id='word_1_1' title='bbox 671 9 1246 321; x_wconf 55' lang='grc' dir='ltr'>ιιιιη</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 674 231 1180 356">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 674 231 1180 356">
+     <span class='ocr_line' id='line_1_2' title="bbox 674 231 1180 356; baseline 0 -50"><span class='ocrx_word' id='word_1_2' title='bbox 674 231 841 356; x_wconf 24' lang='grc'>312044</span> <span class='ocrx_word' id='word_1_3' title='bbox 872 231 954 306; x_wconf 83' lang='grc'>038</span> <span class='ocrx_word' id='word_1_4' title='bbox 985 231 1067 306; x_wconf 89' lang='grc'>410</span> <span class='ocrx_word' id='word_1_5' title='bbox 1099 231 1180 306; x_wconf 84' lang='grc'>668</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1254 3904">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1254 3904">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1254 3904; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1254 3904; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
